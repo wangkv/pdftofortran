@@ -1,1 +1,2 @@
 # pdftofortran
+## Fortran代码有缩进的限制，PDF文件中的fortran代码OCR识别以后，缩进格式不正确ABAQUS软件无法识别，所以写了一个python程序，来调整PDF文件识别后的代码，使代码满足缩进的要求
